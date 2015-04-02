@@ -1,0 +1,23 @@
+{
+  "name": "timeline",
+  "version": "0.0.0",
+  "description": "Timeline Analysis",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gulp test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmosgenius/timeline.git"
+  },
+  "author": "Sharat M R <cosmosgenius at gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cosmosgenius/timeline/issues"
+  },
+  "homepage": "https://github.com/cosmosgenius/timeline"
+}
