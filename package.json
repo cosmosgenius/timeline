@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cosmosgenius/timeline/issues"
   },
-  "homepage": "https://github.com/cosmosgenius/timeline"
+  "homepage": "https://github.com/cosmosgenius/timeline",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }
